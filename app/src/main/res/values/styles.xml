@@ -1,0 +1,111 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorAccent">#01579B</item>
+    </style>
+
+    <!-- Quiz Title. -->
+    <style name="QuizTitle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:background">#E1F5FE</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Quiz Intro. -->
+    <style name="QuizIntro">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:background">#E1F5FE</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- Quiz Problems. -->
+    <style name="QuizProblems">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:background">#B3E5FC</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- Quiz Questions. -->
+    <style name="QuizQuestions">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:background">#B3E5FC</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- Quiz Radio Group. -->
+    <style name="QuizRadioGroup">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:background">#E1F5FE</item>
+    </style>
+
+    <!-- Quiz Radio Button Choices. -->
+    <style name="QuizAnswerChoices">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:background">#E1F5FE</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <!-- Quiz EditText Answer Choices. -->
+    <style name="QuizEditText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#01579B</item>
+        <item name="android:background">#E1F5FE</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:hint">@string/etHint</item>
+    </style>
+
+    <!-- Quiz Buttons. -->
+    <style name="QuizButtons">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_margin">20dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#03A9F4</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_title">Algebra Quiz</string>
+    <string name="quiz_intro">You will be asked 9 basic algebra questions and must correctly answer at least 5 questions to pass this quiz</string>
+    <string name="start_quiz_btn">Start Quiz</string>
+    <string name="q1">1. x + 17 = 52</string>
+    <string name="p1">What is the value of x?</string>
+    <string name="q1a">-69</string>
+    <string name="q1b">-35</string>
+    <string name="q1c">35</string>
+    <string name="q1d">69</string>
+    <string name="q2">2. 2y - 200 = 42</string>
+    <string name="p2">What is the value of y?</string>
+    <string name="q2a">-121</string>
+    <string name="q2b">-79</string>
+    <string name="q2c">79</string>
+    <string name="q2d">121</string>
+    <string name="q3">3. 8n + 50 = 850</string>
+    <string name="p3">What is the value of n?</string>
+    <string name="q3a">8</string>
+    <string name="q3b">9</string>
+    <string name="q3c">10</string>
+    <string name="q3d">11</string>
+    <string name="q4">4. 4x + 5 = 37 + 12</string>
+    <string name="p4">What is the value of x?</string>
+    <string name="a4">11</string>
+    <string name="q5">5. 3 -11 = 3y -11</string>
+    <string name="p5">What is the value of y?</string>
+    <string name="a5">1</string>
+    <string name="q6">6. 3z -7 = 5z + 33</string>
+    <string name="p6">What is the value of z?</string>
+    <string name="a6">-20</string>
+    <string name="p7">7. Which of the following are prime factors?</string>
+    <string name="q7a">2</string>
+    <string name="q7b">13</string>
+    <string name="q7c">39</string>
+    <string name="q7d">43</string>
+    <string name="p8">8. Which of the following are multiples of 8?</string>
+    <string name="q8a">8</string>
+    <string name="q8b">68</string>
+    <string name="q8c">128</string>
+    <string name="q8d">258</string>
+    <string name="p9">9. Which of the following are divisible by 3?</string>
+    <string name="q9a">120</string>
+    <string name="q9b">243</string>
+    <string name="q9c">426</string>
+    <string name="q9d">600</string>
+    <string name="resultToast">/9 points</string>
+    <string name="answerToast">You can now check the correct answers.</string>
+    <string name="resetToast">Now see how your friend scores.</string>
+    <string name="etHint">type answer</string>
+    <string name="resultsBtn">results</string>
+    <string name="answersBtn">answers</string>
+    <string name="resetBtn">reset</string>
+    <string name="imageHeader">image header</string>
+</resources>
